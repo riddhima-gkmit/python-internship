@@ -28,3 +28,5 @@
 | `git reset --soft / --mixed / --hard` | Move branch pointers or discard changes (dangerous—use carefully).                                            |
 | **Conflict resolution**               | Manually resolve merge/rebase conflicts and mark them resolved with `git add`.                                |
 | **Squashing** (`git rebase -i`)       | Combine multiple commits into one clean, readable commit before merging.                                      |
+
+---
